@@ -1,4 +1,4 @@
-## Scripts
+## Scripts ![GitHub Logo](/images/logo.png)
 ---
 
 #### Python
