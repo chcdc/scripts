@@ -9,13 +9,14 @@ Copiar o arquivo para outra pasta para backup
 Avisar que foi copiado
 Finalizar e sair do programa
 """
-import os
+import os,sys
+path=sys.argv[1]
 a=''
 b=''
 # Variaveis e diretorios
 x=0
 log=open('log/archive.log',"a+")
-os.chdir('/home/carlos/scripts/shell')
+os.chdir(path)
 # Recebe todos os arquivos contidos no diretorio citado
 files=os.listdir()
 search='\n' # Item a ser pesquisado
