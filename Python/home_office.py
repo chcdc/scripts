@@ -7,7 +7,7 @@ from twx.botapi import TelegramBot, ReplyKeyboardMarkup
 def main():
     last_update=0
     bot = TelegramBot('TOKEN')
-    sender_id=26720868
+    sender_id="ID do Destinatario"
     excuses = [
             'Os motoristas de onibus entraram de greve',
             'O cachorro faleceu',
