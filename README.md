@@ -26,3 +26,12 @@ Uso:
 $ pass.py <quantidade de caracteres>
 
 ```
+
+* home_office.py
+
+Script Telegram que envia pelo bot uma mensagem ao chefe com uma justificativa para o home-office
+
+Uso:
+``` sh
+$ python3.5 home_office.py
+``` 
