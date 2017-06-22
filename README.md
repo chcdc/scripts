@@ -5,7 +5,7 @@
 
 * 2048.py
 
-Script que executa automaticamente o jogo 2048
+Script que executa automaticamente o jogo [2048](https://gabrielecirulli.github.io/2048) utilizando o navegador firefox
 
 * arquivos.py
 
