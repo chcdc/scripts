@@ -1,5 +1,4 @@
 #!/usr/bin/env python3.5
-# -*- coding: utf-8 -*-
 
 import random
 from twx.botapi import TelegramBot, ReplyKeyboardMarkup
