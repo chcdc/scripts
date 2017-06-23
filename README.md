@@ -1,4 +1,4 @@
-## Scripts
+# Scripts
 ---
 
 #### Python
@@ -41,3 +41,14 @@ Uso:
 ``` sh
 $ python3.5 home_office.py
 ``` 
+
+* ip_externo.py
+
+Script que mostra o ip externo
+
+Uso:
+```sh
+$ python3.5 ip_externo.py
+
+```
+
