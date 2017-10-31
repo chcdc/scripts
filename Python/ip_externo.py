@@ -9,5 +9,5 @@ import requests
 r = requests.get('http://ifconfig.me/ip')
 print("#" * 33 )
 print("\n")
-print("Seu ip externo é: %s" % r.text)
+print("Seu ip externo é: {0}".format(r.text))
 print("#" * 33)
