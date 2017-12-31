@@ -5,27 +5,25 @@
 
 * 2048.py
 
-Script que executa automaticamente o jogo [2048](https://gabrielecirulli.github.io/2048) utilizando o navegador firefox
-
+Script that automatically runs the game [2048](https://gabrielecirulli.github.io/2048) using the Firefox Browser
 
 
 * arquivos.py
 
-Script para backup de arquivos com um termo especifico
+Script to backup files with a specific term
 
-Uso:
+Usage:
 ```sh
 $ arquivos.py /diretorio/de/pesquisa
 
 ```
 
 
+Script for creating passwords
 
 * generate_pass.py
 
-Script para criação de passwords
-
-Uso:
+Usage:
 ```sh
 $ chmod +x generate_password.py
 $ ./generate_password.py
@@ -35,18 +33,18 @@ $ ./generate_password.py
 
 * home_office.py
 
-Script Telegram que envia pelo bot uma mensagem ao chefe com uma justificativa para o home-office
+Telegram Script that sends by bot a message to the boss with an excuse for the home-office
 
-Uso:
+Usage:
 ``` sh
 $ python3.5 home_office.py
 ``` 
 
 * ip_externo.py
 
-Script que mostra o ip externo
+Script that shows the external IP
 
-Uso:
+Usage:
 ```sh
 $ python3.5 ip_externo.py
 
