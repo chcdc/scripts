@@ -8,7 +8,6 @@ import random
 import string
 
 
-
 def randompassword(number):
 	chars = random.sample(string.ascii_lowercase + string.digits, number)
 	passw = ''.join(map(str, chars))
