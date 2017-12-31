@@ -1,6 +1,5 @@
 #!/usr/bin/python3.5
 #
-# Script que mostra o ip externo
 # Carlos Carvalho
 # 23/05/2017
 
