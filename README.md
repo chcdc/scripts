@@ -21,16 +21,16 @@ $ arquivos.py /diretorio/de/pesquisa
 
 
 
-* pass.py
+* generate_pass.py
 
 Script para criação de passwords
 
 Uso:
 ```sh
-$ pass.py <quantidade de caracteres>
-
+$ chmod +x generate_password.py
+$ ./generate_password.py
 ```
-
+![](https://user-images.githubusercontent.com/10574354/34464612-c2278488-ee6d-11e7-930b-0780d9c195bc.png)
 
 
 * home_office.py
