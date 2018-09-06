@@ -14,7 +14,7 @@ Script to backup files with a specific term
 
 Usage:
 ```sh
-$ arquivos.py /diretorio/de/pesquisa
+$ arquivos.py /path/of/search
 
 ```
 
